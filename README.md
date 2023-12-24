@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vipin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vipin V
 ===============================================================================================================================
 
 CSE Student
@@ -8,7 +8,6 @@ I'm Vipin, Frontend Developer. Passionate about designing beautiful web interfac
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Website](http://www.vipinv.me)
-  <img align="right" height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 * ✉️  You can contact me at [vipindas233@gmail.com](mailto:vipindas233@gmail.com)
 * 🚀  I'm currently working on [Food Delivery Website](http://github.com/Vipin-V/omnifood)
 * 🧠  I'm learning Flutter, java.
