@@ -9,7 +9,7 @@ I'm Vipin, Frontend Developer. Passionate about designing beautiful web interfac
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Website](http://www.vipinv.me)
 * ✉️  You can contact me at [vipindas233@gmail.com](mailto:vipindas233@gmail.com)
-* 🚀  I'm currently working on [Food Delivery Website](http://github.com/Vipin-V/omnifood)
+* 🚀  I'm currently working on [Animedoro](http://github.com/Vipin-V/animedoro)
 * 🧠  I'm learning Flutter, java.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm secretly Batman... but don't tell anyone
