@@ -4,17 +4,24 @@
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-panchal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipin-v&base=1962&label=Profile%20views&color=0e75b6&style=flat" alt="Vipin V" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vipinv233" target="blank"><img src="https://img.shields.io/twitter/follow/vipinv233?logo=twitter&style=for-the-badge" alt="vipinv233" /></a> </p>
 
-# 💫 About Me:
+<p> 💫 About Me:</p>
+
 🌍  I'm based in India<br>
+
 🖥️  See my portfolio at [VipinV.me](https://vipinv.me/)<br>
+
 ✉️  You can contact me at vipindas233@gmail.com<br>
+
 🚀  I'm currently working on Cross Platform Chat App <br>
+
 🧠  I'm learning Flutter, java.<br>
+
 🤝  I'm open to collaborating on interesting projects.<br>
+
 ⚡  I'm secretly Batman... but don't tell anyone
 </br></br>
 
@@ -56,7 +63,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vipin-v&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
