@@ -59,13 +59,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vipin-v&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 </br></br>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
